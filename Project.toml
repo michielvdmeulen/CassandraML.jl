@@ -1,0 +1,10 @@
+name = "CassandraML"
+uuid = "ec889612-ca9e-4535-b524-38a28435f611"
+authors = ["Michiel van der Meulen <michielvdmeulen@gmail.com> and contributors"]
+version = "0.0.1"
+
+[compat]
+julia = "1.12"
+
+[workspace]
+projects = ["test", "docs"]
